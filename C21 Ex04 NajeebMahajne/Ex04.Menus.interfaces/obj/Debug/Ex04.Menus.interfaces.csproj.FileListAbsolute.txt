@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.interfaces\bin\Debug\Ex04.Menus.interfaces.dll.config
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.interfaces\bin\Debug\Ex04.Menus.interfaces.dll
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.interfaces\bin\Debug\Ex04.Menus.interfaces.pdb
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.interfaces\obj\Debug\Ex04.Menus.interfaces.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.interfaces\obj\Debug\Ex04.Menus.interfaces.dll
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.interfaces\obj\Debug\Ex04.Menus.interfaces.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\HP\source\repos\C21 Ex04 Najeeb 318565918 Itamar 203071824\C21 Ex04 NajeebMahajne 318565918 ItamarBerti 203071824\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.AssemblyReference.cache
